@@ -1,0 +1,13 @@
+9
+
+https://store.epicgames.com/
+https://store.epicgames.com/epic-service-worker.js
+true
+{038d8518-b8da-4ce0-92e7-ec0513250d11}
+0
+1701988166477842
+1701988166479641
+1701988165059322
+1
+true
+#
